@@ -1,3 +1,3 @@
 # Easings.jl
 
-Functions from https://easings.net 
+A library of easing functions from https://easings.net 
